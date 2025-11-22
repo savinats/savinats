@@ -41,6 +41,6 @@ Advanced Statistics for Physics Analysis
 ---
 
 ## 🛠️ Tools
-Python, MATLAB, iOTA, IDL, Spark, R, Jupyter, scikit-learn, PyTorch, NumPy, SciPy
+Python, MATLAB, IDL, R, Spark, Jupyter, scikit-learn, PyTorch, NumPy, SciPy
 
 ---
