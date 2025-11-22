@@ -1,8 +1,7 @@
 ## Hi, I'm Savina! 👋  
 I'm a Master's student in **Physics of Data** at the University of Padua, working at the intersection of **astrophysics**, **data analysis**, and **scientific computing**.
 
-This profile contains the **projects I developed during my studies** — most repositories include **both the main project and the related assignments/homeworks** inside them.
-
+This profile contains the **projects I developed during my studies** 
 ---
 
 ## 🔭 Projects
