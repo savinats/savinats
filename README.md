@@ -26,7 +26,7 @@ Laboratory of Computational Physics Module A: Binary star evolution and binary b
 Laboratory of Computational Physics Module B: Transformers analysis.  
 - Analysis of GPT-2 token embeddings, distances, and intrinsic dimensions  
 - PCA and next-token prediction notebooks
-- 
+  
 ### MAPDb-Project
 Management and Analysis of Physics Datasets Module B: Cosmic ray track reconstruction.  
 - Pipeline for reconstructing trajectories through drift chambers at INFN Legnaro  
