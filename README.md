@@ -1,5 +1,5 @@
 ## Hi, I'm Savina! 👋
-Master’s student in **Physics of Data** at the University of Padua.  
+Master’s student in **Physics of Data** at the University of Padua, focusing on scientific computing, computational astrophysics, data analysis and visualization, interdisciplinary physics.
 This profile contains my **projects, assignments, and research work**.
 
 ---
