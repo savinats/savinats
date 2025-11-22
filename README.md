@@ -7,28 +7,16 @@ This profile contains the **projects I developed during my studies** — most re
 
 ## 🔭 Projects
 
-### Cosmic Ray Track Reconstruction  
-Reconstruction pipeline for muon tracks using drift-chamber detectors (INFN Legnaro).  
-The repository also includes the **course assignments and analyses** that build up to the final project.
-
-### Exoplanet Transit Detection  
-Synthetic BATMAN light curves + ML classifiers (SVMs, NNs) on Kepler data.  
-All **weekly tasks and intermediate steps** are inside the same repository.
-
-### TauREx Atmospheric Retrieval  
-Full workflow for the A/B/D retrieval tasks.  
-Assignments, tests, and notes are **integrated directly in the project folder**.
-
-### Laser Guide Star (LGS) Simulation Tools  
-IDL + Python utilities for sodium-layer sampling and coordinate export.  
-Includes the **course work** leading to the final simulation tool.
-
-### CubeSat CCR Subsystem  
-Code and analysis for the ESA test campaign, with relevant **preparatory tasks and documentation** included in the repo.
-
-### Spark Benchmarking  
-Parameter sweeps for distributed performance analysis.  
-The **assignments for the course** are stored inside the project folder.
+- **ALBAsat_CCR** — CubeSat CCR subsystem: tools and analysis prepared for ESA test-campaign work. :contentReference[oaicite:1]{index=1}  
+- **comp_astro_24** — Computational astrophysics coursework and projects (forked course repo). :contentReference[oaicite:2]{index=2}  
+- **LCPa-Project** — Laboratory of Computational Physics (Module A) — exercises and project notebooks. :contentReference[oaicite:3]{index=3}  
+- **LCPb-Project** — Laboratory of Computational Physics (Module B) — assignments and final project. :contentReference[oaicite:4]{index=4}  
+- **MAPDb-Project** / **MAPD-B** — Management & Analysis of Physics Datasets (Module B) — final project (drift-tube / cosmic-ray analysis). :contentReference[oaicite:5]{index=5}  
+- **MAPD-B** (fork) — course skeleton / reference for MAPD-B (forked resource). :contentReference[oaicite:6]{index=6}  
+- **Statistics-Project** — statistics / modeling coursework notebooks and assignments. :contentReference[oaicite:7]{index=7}  
+- **INAF-Internship** — code and notes from the INAF internship (data preprocessing / research work). :contentReference[oaicite:8]{index=8}  
+- **LaboratoryOfComputationalPhysics_Y6** — forked collection of LCP material (year 6). :contentReference[oaicite:9]{index=9}  
+- **savinats** — personal utilities / small demos / misc. files (see repo for contents). :contentReference[oaicite:10]{index=10}
 
 ---
 
