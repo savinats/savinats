@@ -1,37 +1,46 @@
-## Hi, I'm Savina! 👋  
-I'm a Master's student in **Physics of Data** at the University of Padua, working at the intersection of **astrophysics**, **data analysis**, and **scientific computing**.
-
-This profile contains the **projects I developed during my studies** 
----
-
-## 🔭 Projects
-
-- **ALBAsat_CCR** — CubeSat CCR subsystem: tools and analysis prepared for ESA test-campaign work. :contentReference[oaicite:1]{index=1}  
-- **comp_astro_24** — Computational astrophysics coursework and projects (forked course repo). :contentReference[oaicite:2]{index=2}  
-- **LCPa-Project** — Laboratory of Computational Physics (Module A) — exercises and project notebooks. :contentReference[oaicite:3]{index=3}  
-- **LCPb-Project** — Laboratory of Computational Physics (Module B) — assignments and final project. :contentReference[oaicite:4]{index=4}  
-- **MAPDb-Project** / **MAPD-B** — Management & Analysis of Physics Datasets (Module B) — final project (drift-tube / cosmic-ray analysis). :contentReference[oaicite:5]{index=5}  
-- **MAPD-B** (fork) — course skeleton / reference for MAPD-B (forked resource). :contentReference[oaicite:6]{index=6}  
-- **Statistics-Project** — statistics / modeling coursework notebooks and assignments. :contentReference[oaicite:7]{index=7}  
-- **INAF-Internship** — code and notes from the INAF internship (data preprocessing / research work). :contentReference[oaicite:8]{index=8}  
-- **LaboratoryOfComputationalPhysics_Y6** — forked collection of LCP material (year 6). :contentReference[oaicite:9]{index=9}  
-- **savinats** — personal utilities / small demos / misc. files (see repo for contents). :contentReference[oaicite:10]{index=10}
+## Hi, I'm Savina! 👋
+Master’s student in **Physics of Data** at the University of Padua.  
+This profile contains my **projects, assignments, and research work**.
 
 ---
 
-## 🧪 Coursework Included in the Repos  
-All related course material (weekly exercises, intermediate deliverables, analysis notes) is **already embedded inside each project repository**.  
-Topics covered across the repositories include:
+## 🔭 Projects & Repositories
 
-- scientific computing, visualization, and clustering  
-- CNNs, XGBoost, Restricted Boltzmann Machines  
-- GPT-2 token analysis  
-- quantum harmonic oscillator, Ising model, DMRG  
-- drift-tube analysis with Dask  
-- Bayesian networks and inference  
-- complex networks and community detection  
+### ALBAsat_CCR
+MATLAB and iOTA tools for the CubeSat CornerCube Retroreflector (CCR) payload of the ALBAsat university project launching a cubesat. Includes orbit determination, link budget analysis, research publication, and a guide for data handling.
+
+### comp_astro_24
+Computational Astrophysics: Exoplanet detection and atmospheric retrieval.  
+- Transit detection with SVMs and Neural Networks  
+- Synthetic transit generation using BATMAN  
+- Atmospheric retrievals with TauREx  
+Systems studied: MASCARA-3b (synthetic) and WASP-39b (JWST spectrum)
+
+### LCPa-Project
+Laboratory of Computational Physics Module A: Binary star evolution and binary black holes.  
+- Binary_Black_Holes.ipynb for main analysis  
+- Simulation data in `stable_MT_vs_CE`  
+- Project description PDF included  
+
+### LCPb-Project
+Laboratory of Computational Physics Module B: Transformers analysis.  
+- Analysis of GPT-2 token embeddings, distances, and intrinsic dimensions  
+- PCA and next-token prediction notebooks
+- 
+### MAPDb-Project
+Management and Analysis of Physics Datasets Module B: Cosmic ray track reconstruction.  
+- Pipeline for reconstructing trajectories through drift chambers at INFN Legnaro  
+- Parallel processing with Spark on a cluster  
+- Benchmarking.ipynb evaluates processing performance across configurations
+
+### Statistics-Project
+Advanced Statistics for Physics Analysis  
+- Implementation of a Multinomial Naive Bayes classifier in R  
+- Classification of social media posts  
 
 ---
 
-## 🛠️ Tools  
-**Python**, NumPy, SciPy, scikit-learn, PyTorch, Jupyter, IDL, Spark, Dask.
+## 🛠️ Tools
+Python, MATLAB, iOTA, IDL, Spark, R, Jupyter, scikit-learn, PyTorch, NumPy, SciPy
+
+---
